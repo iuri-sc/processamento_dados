@@ -1,0 +1,63 @@
+{
+  "duracao_ms": 2.63,
+  "origem": "maquina cliente",
+  "processadoEm": "2026-03-06T06:38:11.104604+00:00",
+  "relatorio": {
+    "amostraConvertida": [
+      "SYSTEM_OMEGA_2956",
+      "USER_OMEGA_5017",
+      "NODE_GAMMA_3155",
+      "SYSTEM_OMEGA_1704",
+      "DATA_ALPHA_3824"
+    ],
+    "distribuicao_prefixos": {
+      "ADMIN": 134,
+      "ADMINDELTA": 30,
+      "DATA": 152,
+      "DATADELTA": 21,
+      "NODE": 140,
+      "NODEDELTA": 27,
+      "SENSOR": 135,
+      "SENSORDELTA": 24,
+      "SYSTEM": 144,
+      "SYSTEMDELTA": 31,
+      "USER": 131,
+      "USERDELTA": 31
+    },
+    "distribuicao_sufixos": {
+      "_ALPHA": 159,
+      "_BETA": 185,
+      "_FINAL": 162,
+      "_GAMMA": 169,
+      "_OMEGA": 161
+    },
+    "estatisticas_ids": {
+      "maximo": 9995,
+      "media": 4866.01,
+      "minimo": 8,
+      "soma": 4866012
+    },
+    "resumo": {
+      "linhasValidas": 1000,
+      "linhasVazias": 0,
+      "mediaCaracteresPorLinha": 15.37,
+      "totalCaracteres": 15372,
+      "totalLinhasRecebidas": 1000
+    },
+    "topPrefixos": [
+      {
+        "nome": "DATA",
+        "quantidade": 152
+      },
+      {
+        "nome": "SYSTEM",
+        "quantidade": 144
+      },
+      {
+        "nome": "NODE",
+        "quantidade": 140
+      }
+    ]
+  },
+  "status": "sucesso"
+}
